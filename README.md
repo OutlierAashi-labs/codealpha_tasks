@@ -1,6 +1,10 @@
-# CodeAlpha Internship Tasks
+#  👩‍💻 CodeAlpha Internship Tasks
 
 This repository contains my completed tasks for the CodeAlpha Internship.
+Task 2 and Task 3 were completed together in one Kaggle project. 
+The project covers both the EDA and Data Visualization requirements of the internship tasks.
+
+
 
 ---
 
@@ -75,8 +79,3 @@ Task 2 and Task 3 were completed together in one Kaggle project. The project cov
 
 ---
 
-## 👩‍💻 Internship
-
-**CodeAlpha Internship**
-
-This repository is created for internship task submission and evaluation.
